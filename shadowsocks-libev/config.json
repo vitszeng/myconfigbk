@@ -1,0 +1,9 @@
+{
+    "server":["::1", "127.0.0.1"],
+    "mode":"tcp_and_udp",
+    "server_port":7707,
+    "local_port":10805,
+    "password":"China",
+    "timeout":86400,
+    "method":"chacha20"
+}
